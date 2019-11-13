@@ -1,1 +1,1 @@
-# Logo_Detection
+# OnlineLogoDetection
